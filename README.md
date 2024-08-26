@@ -76,3 +76,6 @@ The course is divided into several modules, each focusing on different aspects o
 
 ### Notion for Notes
 [AI & ML Notion Notes](https://www.notion.so/Machine-Learning-e7186633824b411da9ba3649bda5e859)
+
+### Discord Link
+[Discord](https://discord.gg/4TrvWNBRHA)
